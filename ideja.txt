@@ -1,0 +1,10 @@
+SPOL(M or F)
+
+timer 30 min
+
+dropdown za izbiro default songov
+pol pa doda v dropdovn ce ti importas song
+
+https://www.youtube.com/watch?v=ruohUTTo8Kw
+https://www.tutorialspoint.com/python/tk_frame.htm
+https://www.youtube.com/watch?v=3E_fK5hCUnI

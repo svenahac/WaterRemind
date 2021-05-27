@@ -13,7 +13,7 @@ e = Entry(root, width = 50)
 e.grid(row=1, column=1)
 e.insert(0, "Vpisi nekaj")
 
-def  myClick():
+def myClick():
     myLabel = Label(root, text="Buton goes brr")
     myLabel.grid(row=3, column=4)
 
