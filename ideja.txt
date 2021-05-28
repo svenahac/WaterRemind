@@ -1,6 +1,9 @@
 SPOL(M or F)
 
 timer 30 min
+35 za ž
+custom 
+
 
 dropdown za izbiro default songov
 pol pa doda v dropdovn ce ti importas song
